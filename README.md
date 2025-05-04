@@ -45,7 +45,7 @@ Extract the rar files using any file extraction utility (we used [Keka](https://
 Follow the model-specific readme instructions for the model you wish to train:
 1. [**ViT-b16**](https://github.com/EdgarSuritis/410Final/tree/main/ViT_model)
 2. [**ResNet-50**](https://github.com/EdgarSuritis/410Final/tree/main/ResNet-50)
-3. [**YOLO-v11:**](https://github.com/EdgarSuritis/410Final/tree/main/YOLO-v11)
+3. [**YOLO-v11:**](https://github.com/EdgarSuritis/410Final/blob/main/YOLO-v11/YOLO-v11_README.md)
 
 ---
 
