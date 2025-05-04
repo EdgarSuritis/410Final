@@ -6,7 +6,7 @@
 Airport and public‑transit security still relies heavily on human X‑ray baggage screening, where overlapping objects, low‑contrast imagery and arbitrary orientations make dangerous items (knives, firearms, scissors, etc.) difficult to spot.  
 Our project fine‑tunes state‑of‑the‑art vision backbones originally trained on natural images and benchmarks their effectiveness on a 16 k‑image subset of the public **SIXray** dataset.
 
-- **ViT‑b16** reached a micro‑F1 = **0.84** on five weapon classes, outperforming a ResNet‑50 baseline (F1 = 0.80) and a YOLO‑v11 detector (mAP50 = 0.737, F1 ≈ 0.70).  
+- **ViT‑b16** reached a micro‑F1 = **0.84** on five weapon classes, outperforming a **ResNet‑50** baseline (**F1 = 0.80**) and a **YOLO‑v11** detector (**mAP50 = 0.737, F1 ≈ 0.70**).  
 - Qualitative bounding‑box visualisations show that the model correctly localises partially occluded items at real‑time inference speeds on a single Apple M4 chip and GPU.
 
 These results indicate that transformer backbones can overcome low‑contrast and overlap challenges, and serve as practical decision‑support tools for baggage officers.
@@ -41,6 +41,9 @@ done
 The script pulls the SIXray dataset from the original data owner found [here](https://github.com/MeioJane/SIXray)
 
 ### 3. Train & fine‑tune & evaluate
+**ViT-b16:** 
+**ResNet-50:** 
+**YOLO-v11:** 
 @TODO (Point to the specific folders for each of the models)
 
 ---
