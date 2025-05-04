@@ -74,7 +74,7 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
   title        = {Dangerous Object Detection in X-ray Images},
   author       = {Suritis, Edgar and Azad, Rashik and Njoroge, James},
   year         = {2025},
-  howpublished = {\url{https://github.com/your-org/xray-detection}}
+  howpublished = {\url{https://github.com/EdgarSuritis/410Final}}
 }
 ```
 
