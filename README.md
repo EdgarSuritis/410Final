@@ -39,7 +39,7 @@ done
 ```
 The script pulls the SIXray dataset from the original data owner found [here](https://github.com/MeioJane/SIXray)
 
-Extract the rar files (we used [Keka](https://www.keka.io/en/) for macOS).
+Extract the rar files using any file extraction utility (we used [Keka](https://www.keka.io/en/) for macOS).
 
 ### 3. Train, fine‑tune, & evaluate
 Follow the model-specific readme instructions for the model you wish to train:
