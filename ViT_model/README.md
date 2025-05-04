@@ -17,7 +17,7 @@ Similar to the other models in our project, our ViT model directly uses the raw 
 
 ---
 
-## 🔧 Setup & Dependencies
+## Setup & Dependencies
 
 ### 1. Clone the repository
 
