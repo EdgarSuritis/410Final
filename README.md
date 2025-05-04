@@ -22,6 +22,7 @@ These results indicate that transformer backbones can overcome low‑contrast an
 - If using GPUs: NVIDIA driver ≥ 535 and CUDA‑enabled PyTorch.
 
 ### 1. Clone & set‑up
+- Use the specific model implementation's package setup.
 ```bash
 git lfs install                             # one‑time (weights tracked via LFS)
 git clone https://github.com/your-org/xray-detection.git
