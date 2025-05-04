@@ -40,9 +40,8 @@ pip install -r requirements.txt
 
 We use the **positive annotations** subset of the [SIXray dataset](https://github.com/MeioJane/SIXray), which contains only images with dangerous items and their bounding box annotations.
 
-### 1. Download and unzip the dataset
+### 1. Please follow the instructions in the README.md file in the main folder. If you have already done this for another model, you may skip this step.
 
-- Link: `<INSERT_SIXRAY_DOWNLOAD_LINK_HERE>`
 - After extraction, ensure the directory contains:
 
 ```
@@ -56,7 +55,7 @@ We use the **positive annotations** subset of the [SIXray dataset](https://githu
     ...
 ```
 
-> ⚠️ Do **not** rename these folders. Then load the folders as directed in the python file.
+> ⚠️ Do **not** rename these folders. Then load the folders as directed in vit_xray_classification.py
 
 ---
 
@@ -104,7 +103,7 @@ Our model demonstrates that ViTs, even pretrained on natural images, can be succ
 - Handled XML parsing and multi-label dataset structuring  
 - Trained and evaluated model, generated confusion matrix and performance reports  
 - Prepared all documentation and README files  
-- Estimated time spent: ~30 hours
+- Estimated time spent: ~15 hours
 
 ---
 
@@ -116,15 +115,7 @@ Our model demonstrates that ViTs, even pretrained on natural images, can be succ
 | `requirements.txt`        | All Python dependencies for replication            |
 | `README.md`               | This documentation                                 |
 
----
 
-## 🔁 Reproducibility Checklist
-
- Clearly structured directory  
- Code loads data from standard subfolders  
- Model downloads pretrained ViT weights automatically  
- Evaluation metrics printed and plotted  
- No hidden files or missing dependencies  
 
 ---
 
