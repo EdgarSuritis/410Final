@@ -1,0 +1,11 @@
+
+---
+
+```text
+# requirements.txt
+torch
+torchvision
+timm
+scikit-learn
+matplotlib
+pillow
