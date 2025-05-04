@@ -32,8 +32,8 @@ conda activate xray-detection
 
 ### 2. Download data
 ```bash
-for i in $(seq -w 00 17); do                                         
-  wget "http://aivc.ks3-cn-beijing.ksyun.com/data/public_data/SIXray/JPEGImage.tar.gz$i";
+for i in $(seq -w 01 10); do                                         
+  wget "http://aivc.ks3-cn-beijing.ksyun.com/data/public_data/SIXray-rar/dataset.part$i.rar";
 done
 
 ```
@@ -58,9 +58,9 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
 ## Contributions
 | Member | GitHub ID | Primary tasks |
 |--------|-----------|---------------|
-| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | Data pipeline, ViT training, poster layout |
-| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | YOLO‑v11 experiments, evaluation scripts, README |
-| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | ResNet baseline, demo app, environment setup | 
+| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet baseline, demo app, environment setup |
+| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | Data pipeline, ViT training, poster layout |
+| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, evaluation scripts, README | 
 
 
 ---
