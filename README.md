@@ -24,10 +24,9 @@ These results indicate that transformer backbones can overcome low‑contrast an
 ### 1. Clone & set‑up
 - Use the specific model implementation's package setup.
 ```bash
-git lfs install                             # one‑time (weights tracked via LFS)
-git clone https://github.com/your-org/xray-detection.git
+git clone https://github.com/EdgarSuritis/410Final.git
 cd xray-detection
-conda env create -f environment.yml         # or: pip install -r requirements.txt
+conda env create -f environment.yaml         # or: pip install -r requirements.txt
 conda activate xray-detection
 ```
 
