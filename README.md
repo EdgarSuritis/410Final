@@ -64,7 +64,7 @@ Follow the model-specific readme instructions for the model you wish to train:
 | Member | GitHub ID | Primary tasks | Time Spent |
 |--------|-----------|---------------|------------|
 | Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet-50 baseline model, data pipeline, train/test splits, dataset management, poster| 30 Hours |
-| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | ViT-b16 model training, evaluation scripts, poster | 30 Hours |
+| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | ViT-b16 model training, evaluation scripts, LightRay model expirements, poster| 30 Hours |
 | James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 model experiments, model pipeline, README, environment setup, poster | 30 Hours |
 
 Find our poster [here](https://github.com/EdgarSuritis/410Final/blob/main/Poster.pdf).
