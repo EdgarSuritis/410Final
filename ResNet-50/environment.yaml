@@ -1,4 +1,4 @@
-name: mlFINAL
+name: xray-detection
 channels:
   - pytorch
   - conda-forge
