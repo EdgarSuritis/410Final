@@ -65,7 +65,7 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
 | Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | Data pipeline, ViT training, poster layout |
 | James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, evaluation scripts, README | 
 
-
+Find our poster [here](https://github.com/EdgarSuritis/410Final/blob/main/Poster.pdf).
 ---
 
 ## Citation
