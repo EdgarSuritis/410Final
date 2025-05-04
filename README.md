@@ -25,8 +25,8 @@ These results indicate that transformer backbones can overcome low‑contrast an
 - Use the specific model implementation's package setup.
 ```bash
 git clone https://github.com/EdgarSuritis/410Final.git
-cd xray-detection
-conda env create -f environment.yaml         # or: pip install -r requirements.txt
+cd 410Final
+conda env create -f environment.yml         # or: pip install -r requirements.txt
 conda activate xray-detection
 ```
 
@@ -39,10 +39,12 @@ done
 ```
 The script pulls the SIXray dataset from the original data owner found [here](https://github.com/MeioJane/SIXray)
 
+Extract the rar files (we used [Keka](https://www.keka.io/en/) for mac)
+
 ### 3. Train & fine‑tune & evaluate
 1. [**ViT-b16**](https://github.com/EdgarSuritis/410Final/tree/main/ViT_model)
 2. [**ResNet-50**](https://github.com/EdgarSuritis/410Final/tree/main/ResNet-50)
-3. **YOLO-v11:** 
+3. **YOLO-v11:**(https://github.com/EdgarSuritis/410Final/tree/main/YOLO-v11)
 @TODO (Point to the specific folders for each of the models)
 
 ---
@@ -61,9 +63,9 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
 ## Contributions
 | Member | GitHub ID | Primary tasks | Time Spent |
 |--------|-----------|---------------|------------|
-| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet baseline, demo app, environment setup | 30 Hours |
-| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | Data pipeline, ViT training, poster layout | 30 Hours |
-| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, evaluation scripts, README | 30 Hours |
+| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet baseline, data pipeline, train/test splits, dataset management | 30 Hours |
+| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | ViT training, evaluation scripts | 30 Hours |
+| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, model pipeline, README, environment setup | 30 Hours |
 
 Find our poster [here](https://github.com/EdgarSuritis/410Final/blob/main/Poster.pdf).
 ---
