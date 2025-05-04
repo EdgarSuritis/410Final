@@ -86,17 +86,6 @@ Our model demonstrates that ViTs, even pretrained on natural images, can be succ
 
 ---
 
-## Future Directions
-
-- Self-supervised pretraining on large unlabeled X-ray corpora for domain adaptation
-- Synthetic augmentation for rare object configurations and poses
-- Uncertainty quantification for risk-aware predictions
-- Efficient ViT variants for real-time inference at edge checkpoints
-- Few-shot or continual learning pipelines for new threat classes
-
-
----
-
 ## Files
 
 | File                      | Description                                        |
