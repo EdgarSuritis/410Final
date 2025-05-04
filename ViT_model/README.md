@@ -94,16 +94,6 @@ Our model demonstrates that ViTs, even pretrained on natural images, can be succ
 - Efficient ViT variants for real-time inference at edge checkpoints
 - Few-shot or continual learning pipelines for new threat classes
 
----
-
-## Contributions
-
-**Rashik**  
-- Designed and implemented ViT fine-tuning pipeline  
-- Handled XML parsing and multi-label dataset structuring  
-- Trained and evaluated model, generated confusion matrix and performance reports  
-- Prepared all documentation and README files  
-- Estimated time spent: ~15 hours
 
 ---
 
