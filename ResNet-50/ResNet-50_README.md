@@ -8,8 +8,11 @@
 5. Run all cells in the "Dataloader And Pretrained Model Import" section.
 6. Adjust the hyperparameters in the training section within the main training loop. Run the main training loop as many times as desired. To re-create the model described in the results section the following hyperparameters were used.
 > Train with lr = 0.0001 for 9 epochs
+> 
 > Train with lr = 0.0005 for 20 epochs
+> 
 > Unfreeze backbone weights
+> 
 > Train with lr = 0.0001 for 5 epochs
 
 5. Run the first cell in the Testing section to get the model's predictions for the testing dataset, and print out model performance metrics.
@@ -22,6 +25,17 @@
 This model was able to achieve an F1 score of 0.80 with the training regimine described above.
 
 > Precision: 0.9715909090909091
+> 
 > Recall: 0.6778029445073612
+> 
 > F1: 0.7985323549032688
+
+---
+
+#Acknowledgements
+
+ResNet-50 pretrained backbone creators: https://huggingface.co/microsoft/resnet-50
+
+`He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770–778).`
+
 
