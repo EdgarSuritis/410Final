@@ -22,7 +22,7 @@ Similar to the other models in our project, our ViT model directly uses the raw 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone [<REPO_URL>](https://github.com/EdgarSuritis/410Final.git)
 cd ViT_model
 ```
 
