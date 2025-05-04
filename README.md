@@ -59,11 +59,11 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
 ---
 
 ## Contributions
-| Member | GitHub ID | Primary tasks |
-|--------|-----------|---------------|
-| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet baseline, demo app, environment setup |
-| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | Data pipeline, ViT training, poster layout |
-| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, evaluation scripts, README | 
+| Member | GitHub ID | Primary tasks | Time Spent |
+|--------|-----------|---------------|------------|
+| Edgar Suritis | [@EdgarSuritis](https://github.com/EdgarSuritis) | ResNet baseline, demo app, environment setup | 30 Hours |
+| Rashik Azad   | [@rashikcolgate](https://github.com/rashikcolgate) | Data pipeline, ViT training, poster layout | 30 Hours |
+| James Njoroge | [@James-Njoroge](https://github.com/James-Njoroge) | YOLO‑v11 experiments, evaluation scripts, README | 30 Hours |
 
 Find our poster [here](https://github.com/EdgarSuritis/410Final/blob/main/Poster.pdf).
 ---
