@@ -41,7 +41,7 @@ The script pulls the SIXray dataset from the original data owner found [here](ht
 
 ### 3. Train & fine‑tune & evaluate
 1. **ViT-b16:** 
-2. **ResNet-50:** https://github.com/EdgarSuritis/410Final/tree/main/ResNet-50
+2. [**ResNet-50**](https://github.com/EdgarSuritis/410Final/tree/main/ResNet-50)
 3. **YOLO-v11:** 
 @TODO (Point to the specific folders for each of the models)
 
