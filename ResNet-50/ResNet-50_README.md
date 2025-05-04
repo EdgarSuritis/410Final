@@ -30,7 +30,8 @@ This model was able to achieve an F1 score of 0.80 with the training regimine de
 
 ---
 
-#Acknowledgements
+# Acknowledgements
 
 ResNet-50 pretrained backbone creators: https://huggingface.co/microsoft/resnet-50
+
 `He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770–778).`
