@@ -26,9 +26,7 @@ YOLO-v11/
 │   │   └─ best.pt           # same as runs/.../weights/best.pt
 │   └─ *.jpg                 # sample batches + label visualisations
 ├─ scripts/
-│   ├─ 00_make_splits.py     # generate train/val/test CSVs
-│   ├─ 01_xml2yolo.py        # convert SIXray XML → YOLO .txt boxes
-│   └─ 02_train_yolov11.py   # CLI wrapper around Ultralytics API
+│   └─ YOLO-v11.ipynb        
 ├─ data.yaml                 # YOLO dataset config (paths + names)
 └─ README.md                 # you are here
 ```
@@ -67,7 +65,7 @@ The first cell in `YOLO-v11.ipynb` script builds the data-split .csv files and w
 
 ### 3 Train YOLO‑v11 (2‑phase schedule)
 
-Follow the python notebook file 
+Follow the python notebook file. 
 
 Training logs and TensorBoard files live under `runs/detect/yolov11/*`.
 
