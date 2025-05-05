@@ -50,6 +50,7 @@ Follow the model-specific readme instructions for the model you wish to train:
 ---
 
 ## Project Structure
+```text
 .
 ├── LICENSE
 ├── Milestone 1
@@ -77,6 +78,7 @@ Follow the model-specific readme instructions for the model you wish to train:
     ├── testing-results
     ├── training-results
     └── YOLO-v11_README.md
+```
 
 ---
 
