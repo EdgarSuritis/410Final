@@ -50,7 +50,33 @@ Follow the model-specific readme instructions for the model you wish to train:
 ---
 
 ## Project Structure
-@TODO (Print out the project structure in ASCII structure. Just the final file structure we have.)
+.
+├── LICENSE
+├── Milestone 1
+│   ├── datasets.py
+│   └── YOLO-T.ipynb
+├── Poster.pdf
+├── README.md
+├── requirements.txt
+├── ResNet-50
+│   ├── datasets_custom.py
+│   ├── environment.yml
+│   ├── full-code-test.ipynb
+│   ├── JPEGImage
+│   ├── ResNet-50_README.md
+│   └── TrainTestSplits
+├── ViT_model
+│   ├── README.md
+│   ├── requirements.txt
+│   └── vit_xray_classification.py
+└── YOLO-v11
+    ├── data
+    ├── datasets.py
+    ├── environment.yml
+    ├── scripts
+    ├── testing-results
+    ├── training-results
+    └── YOLO-v11_README.md
 
 ---
 
