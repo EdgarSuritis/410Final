@@ -55,7 +55,11 @@ We use the **positive annotations** subset of the [SIXray dataset](https://githu
     ...
 ```
 
-> ⚠️ Do **not** rename these folders. Then load the folders as directed in vit_xray_classification.py
+> ⚠️ Do **not** rename these folders. Then load the folders as directed in vit_xray_classification.py or follow this:
+annotations_dir = r"C:\\...\\positive-Annotation"
+images_dir      = r"C:\\...\\JPEGImage"
+classes         = ["knife", "gun", "wrench", "pliers", "scissors"]
+
 
 ---
 
