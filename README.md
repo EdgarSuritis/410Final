@@ -26,8 +26,10 @@ These results indicate that transformer backbones can overcome low‑contrast an
 ```bash
 git clone https://github.com/EdgarSuritis/410Final.git
 cd 410Final
-conda env create -f environment.yml         # or: pip install -r requirements.txt
+#conda env create -f environment.yml         # or: pip install -r requirements.txt
+conda create --name xray-detection pip
 conda activate xray-detection
+pip install -r requirements.txt
 ```
 
 ### 2. Download data
@@ -120,3 +122,4 @@ SIXray images remain © their authors and are recommended for research use only.
 - SIXray creators for the dataset.  
 - Ultralytics YOLO and Timm maintainers for open‑source backbones.  
 - [Prof. Forrest Davis](https://forrestdavis.github.io/) for his guidance and patience throughout our project.
+
