@@ -111,7 +111,7 @@ Find our poster [here](https://github.com/EdgarSuritis/410Final/blob/main/Poster
 ---
 
 ## License
-This repository is released under the MIT License (see `LICENSE`).  
+This repository is released under the MIT License (see [`LICENSE`](https://github.com/EdgarSuritis/410Final/tree/main?tab=MIT-1-ov-file)).  
 SIXray images remain © their authors and are recommended for research use only.
 
 ---
